@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marouane Tamimi AKA MatRif01</h1>
-<h3 align="center">A passionate frontend developer & Web Designer from Morocco</h3>
+<h3 align="center">A passionate Frontend Developer & Web Designer from Morocco</h3>
 
 - 📫 How to reach me **contact.marouanetamimi@gmail.com**
 
